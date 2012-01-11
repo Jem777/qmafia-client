@@ -1,0 +1,5 @@
+How to Build and Run qmafia-client
+
+rebuild the python UI source file gameUI.py using
+
+pyuic4 resources/game.ui > UI/gameUI.py
